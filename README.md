@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on URL Phishing Detection System<br>🌱 I’m currently learning Digital Forensic,IPS,IDS and Cisco <br>⚡ I like to play CTF in my free time and learn Reverse Engineering a bit.
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4d2QzOXl5NTdldXdhOWdsY3planZlbjlvNGRxNWIwNm81NmhrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QzxONYL3xbj6E/giphy.gif"  />
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ha1qal) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raja_ha1qal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raja-muhammad-haiqal-shah-raja-muzairil-shah-95991b304/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@r_ha1qal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@infin1te538) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fl4mex15@gmail.com) 
