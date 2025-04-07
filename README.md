@@ -1,7 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on URL Phishing Detection System<br>🌱 I’m currently learning Digital Forensic,IPS,IDS and Cisco <br>⚡ I like to play CTF in my free time and learn Reverse Engineering a bit.
 
-<img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4d2QzOXl5NTdldXdhOWdsY3planZlbjlvNGRxNWIwNm81NmhrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QzxONYL3xbj6E/giphy.gif"  />
+<div align="left" style="display: flex; align-items: center;">
+
+<div>
+
+🔭 I’m currently working on URL Phishing Detection System<br>
+🌱 I’m currently learning Digital Forensic, IPS, IDS and Cisco <br>
+⚡ I like to play CTF in my free time and learn Reverse Engineering a bit.
+
+</div>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4d2QzOXl5NTdldXdhOWdsY3planZlbjlvNGRxNWIwNm81NmhrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QzxONYL3xbj6E/giphy.gif" height="100" style="margin-left: 20px;" />
+
+</div>
+
 
 
 ## 🌐 Socials:
