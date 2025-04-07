@@ -18,4 +18,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ha1qal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://open.spotify.com/user/ha1qal1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ha1qal1&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
