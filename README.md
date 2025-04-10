@@ -5,7 +5,7 @@
 <div>
 
 🔭 I’m currently working on URL Phishing Detection System<br>
-🌱 I’m currently learning Digital Forensic, IPS, IDS and Cisco <br>
+🌱 I’m currently learning Digital Forensic, IPS, IDS and CCNA <br>
 ⚡ I like to play CTF in my free time and learn Reverse Engineering a bit.
 
 </div>
