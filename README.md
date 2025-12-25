@@ -5,7 +5,7 @@
 <div>
 
 🔭 Visit my group project website at https://www.updsproject.com/  <br>
-🌱 I’m currently learning Digital Forensic, IPS, IDS and CCNA <br>
+🌱 I’m currently completing CRTA <br>
 ⚡ I like to play CTF(Beginner) in my free time and learn Reverse Engineering a bit.
 
 </div>
